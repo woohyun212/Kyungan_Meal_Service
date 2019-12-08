@@ -25,7 +25,7 @@ def keyboard(request):
 def answer(request, message):
     print(message)  # 여기까지 오는데 500에러라;;ㅎ
     print(request)
-    '''test()
+    test()
     # JSON 받아내기
     json_str = ((request.body).decode('utf-8'))
     json_data = json.loads(json_str)
@@ -41,8 +41,8 @@ def answer(request, message):
         "data": {
             "menu": meal_menu
         }
-    }'''
-    # 그러게요 왤까요.
+    }
+
     return render(request, 'test.html')
 
 
