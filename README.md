@@ -1,5 +1,5 @@
 # Django
  카카오 i 오픈빌더 챗봇
 
-https://www.facebook.com/profile.php?id=100004501238823
-https://www.instagram.com/w00h_ah/
+facebook :https://www.facebook.com/profile.php?id=100004501238823
+isntagram : https://www.instagram.com/w00h_ah/
