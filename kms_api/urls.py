@@ -4,8 +4,10 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    url(r'^keyboard/', views.keyboard),
+
+    #url(r'^keyboard/', views.keyboard),
     #url(r'^message$', views.answer),
-    path('<message>/', views.answer),
-    #path('', views.answer, name='post_list'),
+    path('keyboard/', views.keyboard),
+    path('answer/', views.answer)
+
 ]
