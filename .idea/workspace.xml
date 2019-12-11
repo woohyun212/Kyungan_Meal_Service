@@ -7,14 +7,46 @@
     <bookmark url="file://$PROJECT_DIR$/kms_api/kyungan_hs_meal_parse.py" line="22" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="651b8755-4563-45ed-8d5a-308b07261b5e" name="Default Changelist" comment="오늘에서야 급식봇의 제1 기능을 갖췄다.&#10;일단">
-      <change afterPath="$PROJECT_DIR$/kms_api/kyungan_hs_meal_parse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KMSapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/KMSapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kms_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/kms_api/urls.py" afterDir="false" />
+    <list default="true" id="651b8755-4563-45ed-8d5a-308b07261b5e" name="Default Changelist" comment="파싱을 위한 beautifulsoup 4 추가설치">
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/_html5lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/_htmlparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/check_block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/dammit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/diagnose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/formatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_builder_registry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_html5lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_htmlparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve-1.9.5.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve-1.9.5.dist-info/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve-1.9.5.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve-1.9.5.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve-1.9.5.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve-1.9.5.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve/__meta__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve/css_match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve/css_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve/css_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve/util.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kms_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/kms_api/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.json" beforeDir="false" afterPath="$PROJECT_DIR$/test2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3.json" beforeDir="false" afterPath="$PROJECT_DIR$/test3.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +75,7 @@
           <entry key="LICENSE" value="1" />
           <entry key="html" value="1" />
           <entry key="json" value="9" />
-          <entry key="py" value="53" />
+          <entry key="py" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -51,7 +83,7 @@
           <entry key="HTML" value="1" />
           <entry key="JSON" value="9" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="53" />
+          <entry key="Python" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -59,16 +91,16 @@
           <entry key="Python Console" value="92" />
           <entry key="html" value="4" />
           <entry key="json" value="249" />
-          <entry key="py" value="14895" />
-          <entry key="txt" value="494" />
+          <entry key="py" value="14908" />
+          <entry key="txt" value="607" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="4" />
           <entry key="JSON" value="249" />
-          <entry key="PLAIN_TEXT" value="494" />
-          <entry key="Python" value="14987" />
+          <entry key="PLAIN_TEXT" value="607" />
+          <entry key="Python" value="15000" />
         </counts>
       </usages-collector>
     </session>
@@ -81,10 +113,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kms_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="98">
+              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
               <folding>
-                <marker date="1576097485675" expanded="true" signature="194:195" ph="..." />
+                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1576098102666" expanded="true" signature="194:196" ph="..." />
               </folding>
             </state>
           </provider>
@@ -153,6 +186,9 @@
         <option value="$PROJECT_DIR$/kakao.json" />
         <option value="$PROJECT_DIR$/test3.json" />
         <option value="$PROJECT_DIR$/kms_api/kyungan_hs_meal_parse.py" />
+        <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/_html5lib.py" />
+        <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/_lxml.py" />
+        <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/dammit.py" />
         <option value="$PROJECT_DIR$/kms_api/views.py" />
       </list>
     </option>
@@ -383,10 +419,17 @@
       <option name="project" value="LOCAL" />
       <updated>1575899090703</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="오늘에서야 급식봇의 제1 기능을 갖췄다.&#10;일단 급식 전송만 해놓고&#10;이제 다음 기능을 구상하고 실행하자&#10;&#10;시행착오가 많았다&#10;역시! 삽질은 헛되지 않았다..ㅠ">
+      <created>1576097921001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576097921001</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TodoView" selected-index="1">
+  <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -399,17 +442,17 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49766356" visible="true" weight="0.109531336" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49766356" visible="true" weight="0.109531336" />
       <window_info id="Structure" order="1" sideWeight="0.50233644" side_tool="true" weight="0.2497332" />
       <window_info id="Favorites" order="2" sideWeight="0.50233644" side_tool="true" weight="0.2497332" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4994664" visible="true" weight="0.21885157" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4994664" weight="0.21885157" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.33152762" />
+      <window_info active="true" anchor="bottom" id="TODO" order="7" visible="true" weight="0.33152762" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50160086" side_tool="true" weight="0.5317287" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49839914" weight="0.32286024" />
@@ -429,7 +472,9 @@
     <MESSAGE value="시작?" />
     <MESSAGE value="주석지움" />
     <MESSAGE value="###################################&#10;#좋았따! 5일의 삽질이 기적을 이뤘다!#&#10;###################################&#10;&#10;챗봇과 JSON 소통 성공이답.&#10;500 에러의 원인은 JSONRespone을 넘길 때, JSON.dumps를 해주지 않아서 그랬던 것!&#10;자료형까지 하나하나찍어보니까 알 수 있었답.&#10;&#10;이제 챗봇에서 제대로된 답변을 만들어보잡.&#10;&#10;++나중에 urls 를 수정해서 어플리케이션 주소에서 바로 answer로 넘어갈 수 있도록 수정해보자" />
-    <option name="LAST_COMMIT_MESSAGE" value="###################################&#10;#좋았따! 5일의 삽질이 기적을 이뤘다!#&#10;###################################&#10;&#10;챗봇과 JSON 소통 성공이답.&#10;500 에러의 원인은 JSONRespone을 넘길 때, JSON.dumps를 해주지 않아서 그랬던 것!&#10;자료형까지 하나하나찍어보니까 알 수 있었답.&#10;&#10;이제 챗봇에서 제대로된 답변을 만들어보잡.&#10;&#10;++나중에 urls 를 수정해서 어플리케이션 주소에서 바로 answer로 넘어갈 수 있도록 수정해보자" />
+    <MESSAGE value="오늘에서야 급식봇의 제1 기능을 갖췄다.&#10;일단 급식 전송만 해놓고&#10;이제 다음 기능을 구상하고 실행하자&#10;&#10;시행착오가 많았다&#10;역시! 삽질은 헛되지 않았다..ㅠ" />
+    <MESSAGE value="파싱을 위한 beautifulsoup 4 추가설치" />
+    <option name="LAST_COMMIT_MESSAGE" value="파싱을 위한 beautifulsoup 4 추가설치" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/chardet/sbcsgroupprober.py">
@@ -605,12 +650,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/dammit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="73" column="34" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/_lxml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/_html5lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kms_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="98">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding>
-            <marker date="1576097485675" expanded="true" signature="194:195" ph="..." />
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1576098102666" expanded="true" signature="194:196" ph="..." />
           </folding>
         </state>
       </provider>

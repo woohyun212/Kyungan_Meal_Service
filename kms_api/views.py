@@ -4,6 +4,7 @@ from django.http import JsonResponse, HttpResponse
 import json
 from kms_api import kyungan_hs_meal_parse
 
+
 @csrf_exempt
 def answer(request):
     # JSON 받아내기
