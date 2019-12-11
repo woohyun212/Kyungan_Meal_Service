@@ -21,10 +21,8 @@ from django.conf.urls import include, url
 from django.contrib import admin
 
 urlpatterns = [
-    #url(r'^kms_api/', include('kms_api.urls')),
     path('admin/', admin.site.urls),
     path('kms_api/', include('kms_api.urls')),
-    # path('', include('kms_api.urls')),
 ]
 
 
