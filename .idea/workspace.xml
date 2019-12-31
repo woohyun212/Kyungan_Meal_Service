@@ -8,45 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651b8755-4563-45ed-8d5a-308b07261b5e" name="Default Changelist" comment="파싱을 위한 beautifulsoup 4 추가설치">
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/_html5lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/_htmlparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/_lxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/check_block.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/dammit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/diagnose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/formatter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_builder_registry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_docs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_html5lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_htmlparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_lxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_soup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/tests/test_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve-1.9.5.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve-1.9.5.dist-info/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve-1.9.5.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve-1.9.5.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve-1.9.5.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve-1.9.5.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve/__meta__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve/css_match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve/css_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve/css_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/soupsieve/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kms_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/kms_api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/개발일지" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,16 +21,18 @@
     <session id="-1914853201">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -75,15 +40,16 @@
           <entry key="LICENSE" value="1" />
           <entry key="html" value="1" />
           <entry key="json" value="9" />
-          <entry key="py" value="56" />
+          <entry key="py" value="57" />
+          <entry key="개발일지" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
           <entry key="JSON" value="9" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="56" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -91,16 +57,17 @@
           <entry key="Python Console" value="92" />
           <entry key="html" value="4" />
           <entry key="json" value="249" />
-          <entry key="py" value="14908" />
+          <entry key="py" value="14910" />
           <entry key="txt" value="607" />
+          <entry key="개발일지" value="1109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="4" />
           <entry key="JSON" value="249" />
-          <entry key="PLAIN_TEXT" value="607" />
-          <entry key="Python" value="15000" />
+          <entry key="PLAIN_TEXT" value="1716" />
+          <entry key="Python" value="15002" />
         </counts>
       </usages-collector>
     </session>
@@ -110,11 +77,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kms_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="406">
+              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
                 <marker date="1576098102666" expanded="true" signature="194:196" ph="..." />
@@ -123,10 +90,28 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/개발일지">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KMSapp/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kms_api/kyungan_hs_meal_parse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="126">
               <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -175,7 +160,6 @@
         <option value="$PROJECT_DIR$/movies/views.py" />
         <option value="$PROJECT_DIR$/movie_api/urls.py" />
         <option value="$PROJECT_DIR$/templates/test.html" />
-        <option value="$PROJECT_DIR$/KMSapp/settings.py" />
         <option value="$PROJECT_DIR$/kms_api/urls.py" />
         <option value="$PROJECT_DIR$/KMSapp/urls.py" />
         <option value="$PROJECT_DIR$/kms_api/kyungan_hs_meal_par.py" />
@@ -190,10 +174,12 @@
         <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/_lxml.py" />
         <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/dammit.py" />
         <option value="$PROJECT_DIR$/kms_api/views.py" />
+        <option value="$PROJECT_DIR$/KMSapp/settings.py" />
+        <option value="$PROJECT_DIR$/개발일지" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="88" />
     <option name="y" value="23" />
     <option name="width" value="892" />
@@ -233,6 +219,11 @@
               <item name="Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="Django" type="462c0819:PsiDirectoryNode" />
               <item name="kms_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+              <item name="KMSapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -429,7 +420,7 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TodoView" selected-index="4">
+  <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -439,7 +430,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49766356" visible="true" weight="0.109531336" />
@@ -452,10 +443,10 @@
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="TODO" order="7" visible="true" weight="0.33152762" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.33152762" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50160086" side_tool="true" weight="0.5317287" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49839914" weight="0.32286024" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49839914" visible="true" weight="0.32286024" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997367" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -603,53 +594,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KMSapp/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test3.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kms_api/kyungan_hs_meal_parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kakao.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.json" />
+    <entry file="file://$PROJECT_DIR$/test1.json" />
+    <entry file="file://$PROJECT_DIR$/test3.json" />
+    <entry file="file://$PROJECT_DIR$/kakao.json" />
     <entry file="file://$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/dammit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -673,12 +624,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kms_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="406">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
             <marker date="1576098102666" expanded="true" signature="194:196" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kms_api/kyungan_hs_meal_parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KMSapp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/개발일지">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
         </state>
       </provider>
     </entry>
