@@ -8,8 +8,82 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651b8755-4563-45ed-8d5a-308b07261b5e" name="Default Changelist" comment="파싱을 위한 beautifulsoup 4 추가설치">
-      <change afterPath="$PROJECT_DIR$/개발일지" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dj_database_url-0.5.0.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dj_database_url-0.5.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dj_database_url-0.5.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dj_database_url-0.5.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dj_database_url-0.5.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dj_database_url-0.5.0.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dj_database_url-0.5.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/dj_database_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn-20.0.4.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn-20.0.4.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn-20.0.4.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn-20.0.4.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn-20.0.4.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn-20.0.4.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn-20.0.4.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/app/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/app/pasterapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/app/wsgiapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/arbiter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/glogging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/http/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/http/body.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/http/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/http/message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/http/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/http/unreader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/http/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/instrument/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/instrument/statsd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/pidfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/reloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/sock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/systemd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/workers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/workers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/workers/base_async.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/workers/geventlet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/workers/ggevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/workers/gthread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/workers/gtornado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/workers/sync.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/gunicorn/workers/workertmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise-5.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise-5.0.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise-5.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise-5.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise-5.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise-5.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/compress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/django.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/httpstatus_backport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/media_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/middleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/responders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/runserver_nostatic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/runserver_nostatic/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/runserver_nostatic/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/runserver_nostatic/management/commands/runserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/scantree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Lib/site-packages/whitenoise/string_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myvenv/Scripts/gunicorn.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KMSapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/KMSapp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/개발일지" beforeDir="false" afterPath="$PROJECT_DIR$/개발일지" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +95,7 @@
     <session id="-1914853201">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -38,6 +112,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="LICENSE" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="html" value="1" />
           <entry key="json" value="9" />
           <entry key="py" value="57" />
@@ -48,13 +123,14 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="JSON" value="9" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="Python" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="92" />
+          <entry key="gitignore" value="1" />
           <entry key="html" value="4" />
           <entry key="json" value="249" />
           <entry key="py" value="14910" />
@@ -66,7 +142,7 @@
         <counts>
           <entry key="HTML" value="4" />
           <entry key="JSON" value="249" />
-          <entry key="PLAIN_TEXT" value="1716" />
+          <entry key="PLAIN_TEXT" value="1717" />
           <entry key="Python" value="15002" />
         </counts>
       </usages-collector>
@@ -80,7 +156,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kms_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
+            <state>
               <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -90,20 +166,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/개발일지">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+            <state relative-caret-position="350">
+              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/KMSapp/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+            <state relative-caret-position="182">
+              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -174,14 +250,15 @@
         <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/builder/_lxml.py" />
         <option value="$PROJECT_DIR$/myvenv/Lib/site-packages/bs4/dammit.py" />
         <option value="$PROJECT_DIR$/kms_api/views.py" />
-        <option value="$PROJECT_DIR$/KMSapp/settings.py" />
         <option value="$PROJECT_DIR$/개발일지" />
+        <option value="$PROJECT_DIR$/KMSapp/settings.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="88" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="14" />
+    <option name="y" value="7" />
     <option name="width" value="892" />
     <option name="height" value="1047" />
   </component>
@@ -430,10 +507,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="14" y="7" width="892" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49766356" visible="true" weight="0.109531336" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49766356" visible="true" weight="0.24327485" />
       <window_info id="Structure" order="1" sideWeight="0.50233644" side_tool="true" weight="0.2497332" />
       <window_info id="Favorites" order="2" sideWeight="0.50233644" side_tool="true" weight="0.2497332" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32936078" />
@@ -446,7 +522,7 @@
       <window_info anchor="bottom" id="TODO" order="7" weight="0.33152762" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50160086" side_tool="true" weight="0.5317287" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49839914" visible="true" weight="0.32286024" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49839914" visible="true" weight="0.32603937" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997367" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -624,7 +700,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kms_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
+        <state>
           <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -643,17 +719,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KMSapp/settings.py">
+    <entry file="file://$PROJECT_DIR$/개발일지">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        <state relative-caret-position="350">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/개발일지">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        <state relative-caret-position="70">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KMSapp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
         </state>
       </provider>
     </entry>
